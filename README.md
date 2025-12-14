@@ -1,0 +1,1 @@
+A Streamlit-based application that automates B2B outreach. The tool utilizes LangChain and Groq to scrape and analyze career page URLs. By querying a vector database for relevant case studies, it synthesizes the extracted job descriptions with specific portfolio links to create context-aware cold emails."
